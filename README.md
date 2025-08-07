@@ -58,7 +58,8 @@ This system helps drivers park safely by continuously measuring the distance bet
                                  +--------------------------+
 
 
----
+
+```
 
 ## 📲 Mobile Interface (Blynk)
 
@@ -67,7 +68,7 @@ This system helps drivers park safely by continuously measuring the distance bet
 - Alerts when vehicle breaches the 50 cm safety zone
 
 ---
-
+```
 ## 📊 Outputs
 
 | Component       | Output Description                                          |
