@@ -58,3 +58,30 @@ This system helps drivers park safely by continuously measuring the distance bet
                                  +--------------------------+
 
 
+---
+
+## 📲 Mobile Interface (Blynk)
+
+- Real-time display of distance readings  
+- Toggle buttons to control appliances via relay  
+- Alerts when vehicle breaches the 50 cm safety zone
+
+---
+
+## 📊 Outputs
+
+| Component       | Output Description                                          |
+|----------------|-------------------------------------------------------------|
+| **Sensor**      | Distance in cm printed to serial monitor & Blynk           |
+| **Buzzer**      | Activated when distance < 50 cm                            |
+| **Relay**       | Switches ON/OFF based on app commands or automation logic  |
+| **App Interface** | Shows sensor data and allows remote appliance control     |
+
+---
+
+## 📁 Folder Structure
+
+
+
+
+
