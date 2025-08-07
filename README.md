@@ -33,8 +33,5 @@ This system helps drivers park safely by continuously measuring the distance bet
 ---
 
 ## 🖥️ System Architecture
-[ Ultrasonic Sensor ] ---> [ ESP32 Microcontroller ] ---> [ Buzzer ]
-|
-[ Relay Module ]
-|
-[ Wi-Fi / Blynk App ]
+<pre> +--------------------+ +---------------------------+ +------------+ | Ultrasonic Sensor | -----> | ESP32 Microcontroller | -----> | Buzzer | +--------------------+ +---------------------------+ +------------+ | v +-------------------+ | Relay Module | +-------------------+ | v +----------------------+ | Wi-Fi / Blynk App | +----------------------+ </pre>
+
