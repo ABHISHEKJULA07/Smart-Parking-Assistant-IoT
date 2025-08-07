@@ -68,7 +68,7 @@ This system helps drivers park safely by continuously measuring the distance bet
 - Alerts when vehicle breaches the 50 cm safety zone
 
 ---
-```
+
 ## 📊 Outputs
 
 | Component       | Output Description                                          |
@@ -80,7 +80,23 @@ This system helps drivers park safely by continuously measuring the distance bet
 
 ---
 
-## 📁 Folder Structure
+
+---
+
+## ✅ Conclusion
+
+This Smart Parking Assistant enhances **driver safety** and **parking convenience** by providing real-time alerts and **remote control over garage systems**. The combination of **ESP32**, **ultrasonic sensing**, and **Blynk IoT** makes it a practical, scalable solution for smart homes and smart cities.
+
+---
+
+## 👨‍💻 Developed By
+
+**Abhishek Jula**, Dhruv Uniyal, Tarun Sri Sai Vadlapatla, John Nikhil Bonam, Ms. A. Madhavi  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
+💻 [GitHub](https://github.com/ABHISHEKJULA07)  
+🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
+📧 abhishekjula018@gmail.com
+
 
 
 
